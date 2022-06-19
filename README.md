@@ -4,4 +4,4 @@
 - K-means can be applied with each pixel and will reassigned to the closest of the K Colors, leading to <em>Segmentation<em>
   </br>
   
-  
+  <img src="img.jpg" alt="image">
